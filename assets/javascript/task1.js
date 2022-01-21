@@ -1,6 +1,11 @@
 /* Put code for the task below */
-function functionName(){
-	alert("Run My Stuff");
-	
-	
-}
+function buttonAppear() {
+    var button = document.getElementById("buttonTask1");
+    button.style.display = "block";
+
+    function imageDisappear() {
+        var image = document.getElementById("imageTask1");
+        image.style.display = "block";
+
+
+    }
