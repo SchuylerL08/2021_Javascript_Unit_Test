@@ -1,11 +1,15 @@
 /* Put code for the task below */
+
+
+/* Makes the button visible when hover over image */
 function buttonAppear() {
-    var button = document.getElementById("buttonTask1");
-    button.style.display = "block";
-
-    function imageDisappear() {
-        var image = document.getElementById("imageTask1");
-        image.style.display = "block";
+    var image = document.getElementById("buttonTask1");
+    image.style.display = "block";
+}
 
 
-    }
+/* Makes the image invisible when click button */
+function imageDisappear() {
+    var button = document.getElementById("imageTask1");
+    button.style.display = "none";
+}
