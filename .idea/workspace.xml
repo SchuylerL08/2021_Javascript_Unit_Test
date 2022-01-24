@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c39563e8-68f1-4596-a304-756c4e68157e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/2021_Javascript_Unit_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2021_Javascript_Unit_Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c39563e8-68f1-4596-a304-756c4e68157e" name="Changes" comment="Javascript Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/javascript/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascript/task3.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +36,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643035277148</updated>
-      <workItem from="1643035278986" duration="805000" />
+      <workItem from="1643035278986" duration="1553000" />
     </task>
+    <task id="LOCAL-00001" summary="Javascript Test">
+      <created>1643036135388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643036135388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Javascript Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript Test" />
   </component>
 </project>
