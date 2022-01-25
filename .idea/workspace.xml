@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c39563e8-68f1-4596-a304-756c4e68157e" name="Changes" comment="Javascript Test" />
+    <list default="true" id="c39563e8-68f1-4596-a304-756c4e68157e" name="Changes" comment="Javascript Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascript/task3.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascript/task4.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +46,7 @@
       <updated>1643035277148</updated>
       <workItem from="1643035278986" duration="1569000" />
       <workItem from="1643118437159" duration="2269000" />
+      <workItem from="1643125033942" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="Javascript Test">
       <created>1643036135388</created>
@@ -63,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643120654039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Javascript Test">
+      <created>1643125046673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643125046673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -8,4 +8,4 @@ function clearPage() {
 }
 
 /* I found this code from geeksforgeeks.org on https://www.geeksforgeeks.org/how-to-open-url-in-new-tab-using-javascript/
-*  The code opens a new tab in the same window using a specific link */
+*  The code opens a new tab in the same window and goes to a link */
