@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39563e8-68f1-4596-a304-756c4e68157e" name="Changes" comment="Javascript Test">
+      <change afterPath="$PROJECT_DIR$/newPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascript/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/javascript/task3.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascript/task4.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/javascript/task4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -36,7 +45,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643035277148</updated>
-      <workItem from="1643035278986" duration="1553000" />
+      <workItem from="1643035278986" duration="1569000" />
+      <workItem from="1643118437159" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="Javascript Test">
       <created>1643036135388</created>
@@ -45,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643036135388</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Javascript Test">
+      <created>1643036834618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643036834618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Javascript Test" />
